@@ -2,7 +2,7 @@
 
 As expressões regulares são um verdadeiro canivete suiço para o programador, pois podem resolver alguns problemas com grande facilidade caso saibamos como usar.
 
-Seu uso não é intuitivo. Por conta disso resolvi fazer uma boa pesquisa e reunir neste repositórios vários bons tutoriais, exemplos de uso com PHP, com o VSCode e linkar um ótimo testador do qual fiz um fork, traduzi e criei um arquivo com diversos exemplos de uso:
+Seu uso não é intuitivo. Por conta disso resolvi fazer uma boa pesquisa e reunir neste repositórios vários bons tutoriais, exemplos de uso com PHP, com o VSCode e linkar um ótimo testador online, do qual fiz um fork, traduzi e criei um arquivo com diversos exemplos de uso:
 
 https://github.com/ribafs/regex-tester 
 
